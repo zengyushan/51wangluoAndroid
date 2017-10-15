@@ -1,0 +1,6 @@
+/* article */
+.article{margin: 6px; border: 1px solid #cccccc; padding: 10px 10px; color: #787878; line-height: 1.5; font-size: 14px;}
+.article_tt{line-height: 1; text-align: center; font-size: 16px; color: #383838; padding-bottom: 4px; /*border-bottom: 1px solid #cccccc;*/ margin-bottom: 6px;}
+.article_tt p{font-size: 10px; color: #787878; text-align: right; margin-top: -1px;}
+.article img{max-width:100%;}
+.line{border-bottom: 1px solid #cccccc;}
